@@ -1,4 +1,4 @@
-# Eurofins Agro Testing
+# Eurofins Agro
 
 Welcome to the official GitHub organization for **Eurofins Agro** in Wageningen, Netherlands.
 

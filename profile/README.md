@@ -31,7 +31,7 @@ We maintain the highest standards in analytical testing and are committed to:
 ## Contact
 
 For more information about our services:
-- 🌐 Website: [eurofins.com](https://www.eurofins.com)
+- 🌐 Website: [Eurofins Agro](https://www.eurofins-agro.com/)
 - 📧 Contact us through our official website
 
 ## Contributing
